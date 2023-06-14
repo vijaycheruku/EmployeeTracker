@@ -20,16 +20,17 @@ console.table is used to display output as tables.
 ## Screenshots
 
 Below screen shot shows how to run and use this project
-![Project usage](./Assets/Screenshot 2023-06-14 at 7.13.57 AM.png)
+![Project usage](./Assets/Screenshot%202023-06-14%20at%207.13.57%20AM.png)
 
 Below screen shots shows options available in the project provided as inquirer list
-![Options available](./Assets/Screenshot 2023-06-14 at 7.04.58 AM.png)
+![Option available](./Assets/Screenshot%202023-06-14%20at%207.04.58%20AM.png)
 
 Below Screenshot shows how we connect to datatbase
-![Database connection](./Assets/Screenshot 2023-06-14 at 7.05.31 AM.png)
+![Database connection](./Assets/Screenshot%202023-06-14%20at%207.05.31%20AM.png)
 
 Below screenshot shows the database queries written in seeds.sql file
-![Database Queries] (./Assets/Screenshot 2023-06-14 at 7.04.29 AM.png)
+![Database Queries](./Assets/Screenshot%202023-06-14%20at%207.04.29%20AM.png)
+
 
 ## Video recording of the project
 
